@@ -5,7 +5,7 @@ import pandas as pd
 # USERNAME: (string) type racer user name
 USERNAME = ''
 
-# RACES: (string/number) number of races
+# RACES: (string) number of races
 RACES = ''
 
 # CSV_OUT: (string) path to the csv file to be written to
