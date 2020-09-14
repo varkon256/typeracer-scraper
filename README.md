@@ -1,4 +1,4 @@
-# Type Racer Scraper
+# Typeracer Scraper
 
 Python scripts that were used to generate the gif in this
 [post](https://www.reddit.com/r/dataisbeautiful/comments/d55coe/my_typing_speed_over_3_years_oc/?utm_source=share&utm_medium=web2x&context=3).
